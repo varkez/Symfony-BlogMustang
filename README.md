@@ -6,6 +6,7 @@ Symfony Website Skeleton
 composer create-project symfony/website-skeleton blogtodev
 
 Bundles : 
+  Annotations
   Versioning lunguage
   Cookie Notifier
   Editeur wysiwyg CKEditor
