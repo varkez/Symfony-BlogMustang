@@ -1,0 +1,12 @@
+{% extends "@FOSUser/layout.html.twig" %}
+ 
+{% block stylesheets %}
+    {{ parent() }}
+    <link href="{{ asset('css/login.css') }}" type="text/css" rel="stylesheet" />
+{% endblock %}
+ 
+ 
+ 
+{% block fos_user_content  %}
+            {% include "@FOSUser/Security/login_content.html.twig" %}
+{% endblock fos_user_content  %} 
