@@ -1,5 +1,5 @@
 # Symfony-BlogMustang
-Premier Projet Symfony Beug Class FOSUserBundle
+Premier Projet Symfony Beug Class FOSUserBundle : Attempted to load class "FOSUserBundle" from namespace "FOS\UserBundle". ?!
 
 
 Symfony Website Skeleton
@@ -9,7 +9,7 @@ Bundles :
   Versioning lunguage
   Cookie Notifier
   Editeur wysiwyg CKEditor
-  FOSUseurBundle .. Attempted to load class "FOSUserBundle" from namespace "FOS\UserBundle". ?!
+  FOSUseurBundle .. 
   
 
 Files :
